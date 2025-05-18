@@ -1,0 +1,9 @@
+PyQt5
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+openpyxl
+xlrd
+pytest
