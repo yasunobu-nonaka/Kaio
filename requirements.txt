@@ -1,0 +1,18 @@
+# GUI
+PyQt5>=5.15
+
+# Data Processing
+numpy>=1.21
+pandas>=1.3
+
+# Graph Creation
+matplotlib>=3.5
+seaborn>=0.11
+plotly>=5.0
+
+# Excel Loading
+openpyxl>=3.0
+xlrd>=2.0
+
+# For Development
+pytest>=7.0
